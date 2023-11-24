@@ -10,7 +10,7 @@ webrick:
 
 # Theme settings
 site_author: Abcdavk
-repo_url: 'https://github.com/abcdavk/JustBiome'
+repo_url: 'https://github.com/abcdavk/abcdavk'
 edit_on_github: true
 github_docs_folder: false
 sticky_navigation: true
